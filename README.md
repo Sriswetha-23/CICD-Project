@@ -53,10 +53,14 @@ To access the UI of Argo CD, change the service type of argocd-server from Clust
 <img width="2400" height="1170" alt="image" src="https://github.com/user-attachments/assets/2b949518-1ad0-4e1e-8282-1c3edf15412f" />
 
 - Shell script picks it up and updates with the new image in manifest repo (deployment file)
-- before updation
+
+  
+before updation
 
 <img width="2025" height="1193" alt="image" src="https://github.com/user-attachments/assets/956a1296-95d7-4cd2-bd66-c425167f5a64" />
-- After updation
+
+
+after updation
 
 <img width="2025" height="1233" alt="image" src="https://github.com/user-attachments/assets/b4fd4592-b8eb-4f05-8574-c2bb232d9b02" />
 
