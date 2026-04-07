@@ -1,9 +1,11 @@
+# Set up Jenkins, configure Docker as a build agent, implement a CI/CD pipeline, and deploy applications to Kubernetes using Argo CD following a GitOps approach.
+
 <img width="1982" height="989" alt="image" src="https://github.com/user-attachments/assets/48618647-5352-4ca4-91d6-fec40127e874" />
 
-Pre-requisite:
+# Pre-requisite:
 An EC2 instance 
 
-Tools for installation:
+# Tools for installation:
 - Java 21
 - maven
 - docker
@@ -18,7 +20,7 @@ The application that we are going to deploy as part of this project
 <img width="2400" height="1260" alt="image" src="https://github.com/user-attachments/assets/db7c676f-82f3-4a9c-8c0c-d50d909c0bca" />
 
 
-The CI Part: [Jenkins]
+# The CI Part: [Jenkins]
 
 * Install the necessary plugins such as docker pipeline plugin, github plugin
 * Add the credentials for SQB, Docker and GitHub
@@ -33,7 +35,7 @@ The CI Part: [Jenkins]
 <img width="2400" height="1260" alt="image" src="https://github.com/user-attachments/assets/ef927e05-0153-464d-9468-5c234826232d" />
 
 
-The CD Part: [Argo CD]
+# The CD Part: [Argo CD]
 
 Create a namespace argocd
 
