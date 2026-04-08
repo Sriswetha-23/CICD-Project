@@ -22,8 +22,7 @@ The application that we are going to deploy as part of this project
 
 # The CI Part: [Jenkins]
 
-* Install the necessary plugins such as docker pipeline plugin, github plugin
-* Add the credentials for SQB, Docker and GitHub
+( Install the necessary plugins such as docker pipeline plugin, github plugin and add the credentials for SQB, Docker and GitHub)
 
 <img width="2400" height="783" alt="image" src="https://github.com/user-attachments/assets/1f351632-8149-466c-8fe2-d55a7f9df49a" />
 
